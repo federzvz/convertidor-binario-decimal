@@ -1,6 +1,5 @@
-package co.com.sofka.convertidorDecimalToBinario.convertidor.domain.service;
+package co.com.sofka.convertidorBinarioToDecimal.convertidor.domain.service;
 
-import co.com.sofka.convertidorDecimalToBinario.convertidor.domain.model.Numero;
 import org.springframework.stereotype.Service;
 
 @Service

@@ -1,7 +1,6 @@
-package co.com.sofka.convertidorDecimalToBinario.convertidor.infraestructure.controller;
+package co.com.sofka.convertidorBinarioToDecimal.convertidor.infraestructure.controller;
 
-import co.com.sofka.convertidorDecimalToBinario.convertidor.domain.model.Numero;
-import co.com.sofka.convertidorDecimalToBinario.convertidor.domain.service.NumeroService;
+import co.com.sofka.convertidorBinarioToDecimal.convertidor.domain.service.NumeroService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
