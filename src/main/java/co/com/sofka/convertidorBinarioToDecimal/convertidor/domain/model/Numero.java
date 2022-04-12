@@ -1,4 +1,4 @@
-package co.com.sofka.convertidorDecimalToBinario.convertidor.domain.model;
+package co.com.sofka.convertidorBinarioToDecimal.convertidor.domain.model;
 
 public class Numero {
     private Long valor;
